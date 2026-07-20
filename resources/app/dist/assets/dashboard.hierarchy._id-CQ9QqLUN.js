@@ -1,1 +1,0 @@
-import{a5 as t,j as r}from"./index-Dkm4HuEg.js";import{D as m}from"./hierarchy-view-CY6QEuJW.js";import"./skeleton-CDPnhXrK.js";import"./hooks-CURlgcqb.js";import"./types-DazySkvq.js";import"./chevron-left-BbpoLWxD.js";function u(){const{id:o}=t.useParams();return r.jsx(m,{id:o})}export{u as component};
